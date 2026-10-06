@@ -3,7 +3,7 @@
 
   const CANVAS_W = 486, CANVAS_H = 486;
   const AVATAR_SIZE = 300;
-  const AVATAR_ROTATE_DEG = 10;
+  const AVATAR_ROTATE_DEG = -10;
   const AVATAR_POS_X = -35;
   const AVATAR_POS_Y = 250;
 
